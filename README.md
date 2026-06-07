@@ -104,6 +104,12 @@ framesnap/
 
 ---
 
+## Screenshots 
+
+<img width="1919" height="871" alt="image" src="https://github.com/user-attachments/assets/cab86c70-15e6-4417-b9ef-1052cc84c1e8" />
+
+
+
 ## 📄 License
 
 MIT © 2026 FrameSnap
