@@ -1,6 +1,6 @@
 # FrameSnap — Video Frame Extractor
 
-Extract pixel-perfect frames from any video, entirely in your browser. No server uploads, no accounts, no limits.
+Extract pixel-perfect frames from any video, entirely in your browser. No server uploads, no account needed, no limits.
 
 # FrameSnap — Video Frame Extractor
 
