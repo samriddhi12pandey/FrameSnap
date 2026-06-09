@@ -6,7 +6,7 @@ Extract pixel-perfect frames from any video, entirely in your browser. No server
 
 🚀 Live Demo: https://frame-snap-cyan.vercel.app/
 
-Extract pixel-perfect frames from any video, entirely in your browser.
+Extract the pixel-perfect frames from any video, entirely in your browser.
 
 ---
 
